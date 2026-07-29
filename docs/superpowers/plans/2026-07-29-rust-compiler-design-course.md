@@ -15,8 +15,17 @@ en trabajo operativo. Su autoridad sigue este orden:
 5. los estándares de fuente de verdad, GitHub Delivery Workflow y bloque
    autónomo de Jeresoft Academy.
 
-El GitHub Project se registrará aquí después de su creación y será la
+El [GitHub Project #20](https://github.com/users/jeresoftx/projects/20) es la
 representación operativa de este plan.
+
+## Estado actual
+
+- [x] Project #20 creado desde la plantilla oficial, vinculado al repositorio y
+  con las vistas Backlog, Roadmap, Critical Path, In Progress, Review / PRs y
+  Blocked.
+- [x] Cinco milestones, etiquetas y 26 issues accionables creados y asignados.
+- [x] Cada item tiene prioridad, estimación humana, fechas, dependencia, ruta
+  crítica, área, tipo, responsable y validación esperada.
 
 ## Objetivo
 

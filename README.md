@@ -30,6 +30,7 @@ tipos algebraicos, pruebas y estructuras de datos elementales.
 
 El alcance, las dependencias y los criterios de aceptación viven en el
 [plan versionado](docs/superpowers/plans/2026-07-29-rust-compiler-design-course.md).
+El avance operativo vive en el [GitHub Project #20](https://github.com/users/jeresoftx/projects/20).
 
 ## Estructura Prevista
 
@@ -45,6 +46,7 @@ diagrams/   Diagramas Mermaid y material de apoyo.
 
 - La estructura sigue RFC-0001 §15; los capítulos aplicarán §14 y §16.
 - El plan se convierte en milestones, issues y GitHub Project antes de código.
+- Cada issue y PR debe pertenecer al mismo GitHub Project, conforme a RFC-0002.
 - El código previsto usa `MIT OR Apache-2.0`; el contenido educativo usa
   `CC BY-SA 4.0`.
 - Ningún capítulo se marcará como `reviewed` o `published` sin revisión humana.

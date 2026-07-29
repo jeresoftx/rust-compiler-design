@@ -7,8 +7,11 @@ límite: registra dirección y criterios de calidad, no una carrera por terminar
 
 ## Estado Actual
 
-La fundación y el plan operativo están en preparación. Antes de código se
-crearán el GitHub Project, milestones e issues asignados a `jeresoftx`.
+La fundación y el plan operativo están listos. El
+[plan versionado](docs/superpowers/plans/2026-07-29-rust-compiler-design-course.md)
+se ejecuta mediante el [GitHub Project #20](https://github.com/users/jeresoftx/projects/20),
+milestones e issues asignados a `jeresoftx`. El siguiente bloque es
+`#1 → #2 → #3 → #4`: coordinación y lexer.
 
 ## Dirección Técnica
 

@@ -100,7 +100,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 ### Capítulo 03: AST
 
-- [ ] #8 Especificar nodos, spans, invariantes y alternativas de representación.
+- [x] #8 Especificar nodos, spans, invariantes y alternativas de representación.
 - [ ] #9 Implementar y probar AST construido desde el parser.
 - [ ] #10 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 

@@ -94,7 +94,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 ### Capítulo 02: parser
 
-- [ ] #5 Especificar gramática, precedencia, recuperación y alternativas.
+- [x] #5 Especificar gramática, precedencia, recuperación y alternativas.
 - [ ] #6 Implementar y probar parser con precedencia y diagnósticos.
 - [ ] #7 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 

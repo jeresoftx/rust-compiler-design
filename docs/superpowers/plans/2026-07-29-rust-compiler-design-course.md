@@ -110,7 +110,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 - [x] #11 Especificar símbolos, scopes, tipos y diagnósticos semánticos.
 - [x] #12 Implementar y probar análisis de nombres y tipos mínimos.
-- [ ] #13 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
+- [x] #13 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ### Capítulo 05: representación intermedia
 

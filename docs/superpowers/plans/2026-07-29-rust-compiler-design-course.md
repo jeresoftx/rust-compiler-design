@@ -79,7 +79,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 ## Issue coordinador
 
-- [ ] #1 Coordinar plan, Project y trazabilidad de `rust-compiler-design`.
+- [x] #1 Coordinar plan, Project y trazabilidad de `rust-compiler-design`.
   - Prioridad: P1. Estimación humana: 1d. Ruta crítica: sí.
   - Cierre: plan en `main`, Project enlazado, campos y vistas verificados,
     issues creados y cada item con fechas, prioridad, duración y dependencia.

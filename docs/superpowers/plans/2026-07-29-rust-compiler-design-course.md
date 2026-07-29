@@ -116,7 +116,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 - [x] #14 Especificar IR, bloques, instrucciones y contrato de lowering.
 - [x] #15 Implementar y probar lowering de AST validado a IR.
-- [ ] #16 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
+- [x] #16 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ## Milestone 3: Ejecución y optimización
 

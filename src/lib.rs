@@ -3,3 +3,4 @@
 //! Modelos pequeños y verificables para el curso de diseño de compiladores.
 
 pub mod lexer;
+pub mod parser;

@@ -1,0 +1,9 @@
+[package]
+name = "rust-compiler-design"
+version = "0.1.0"
+edition = "2024"
+description = "Curso-proyecto de diseño de compiladores en Rust para Jeresoft Academy."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jeresoftx/rust-compiler-design"
+
+[dependencies]

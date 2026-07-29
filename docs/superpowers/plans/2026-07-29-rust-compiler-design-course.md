@@ -115,7 +115,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 ### Capítulo 05: representación intermedia
 
 - [x] #14 Especificar IR, bloques, instrucciones y contrato de lowering.
-- [ ] #15 Implementar y probar lowering de AST validado a IR.
+- [x] #15 Implementar y probar lowering de AST validado a IR.
 - [ ] #16 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ## Milestone 3: Ejecución y optimización

@@ -122,7 +122,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 ### Capítulo 06: optimizador
 
-- [ ] #17 Especificar optimizaciones locales, preservación semántica y límites.
+- [x] #17 Especificar optimizaciones locales, preservación semántica y límites.
 - [ ] #18 Implementar y probar optimizador mínimo con equivalencia observable.
 - [ ] #19 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 

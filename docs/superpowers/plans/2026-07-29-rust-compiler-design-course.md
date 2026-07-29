@@ -90,7 +90,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 - [x] #2 Especificar tokens, spans, errores léxicos y contrato de entrada.
 - [x] #3 Implementar y probar lexer determinista con diagnósticos mínimos.
-- [ ] #4 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
+- [x] #4 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ### Capítulo 02: parser
 

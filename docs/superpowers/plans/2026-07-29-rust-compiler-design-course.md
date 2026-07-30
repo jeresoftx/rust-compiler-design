@@ -124,7 +124,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 - [x] #17 Especificar optimizaciones locales, preservación semántica y límites.
 - [x] #18 Implementar y probar optimizador mínimo con equivalencia observable.
-- [ ] #19 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
+- [x] #19 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ### Capítulo 07: bytecode
 

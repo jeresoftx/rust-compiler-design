@@ -7,11 +7,11 @@ límite: registra dirección y criterios de calidad, no una carrera por terminar
 
 ## Estado Actual
 
-La fundación y el plan operativo están listos. El
+El curso completo está en `draft`. El
 [plan versionado](docs/superpowers/plans/2026-07-29-rust-compiler-design-course.md)
 se ejecuta mediante el [GitHub Project #20](https://github.com/users/jeresoftx/projects/20),
-milestones e issues asignados a `jeresoftx`. El siguiente bloque es
-`#1 → #2 → #3 → #4`: coordinación y lexer.
+milestones e issues asignados a `jeresoftx`. La revisión humana diferida es el
+siguiente paso; no cambia los estados editoriales a `reviewed` o `published`.
 
 ## Dirección Técnica
 

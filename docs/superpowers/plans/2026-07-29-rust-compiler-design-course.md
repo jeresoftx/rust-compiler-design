@@ -140,7 +140,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 
 ## Milestone 4: Integración y cierre editorial
 
-- [ ] #26 Completar ruta de lectura, glosario, referencias cruzadas y auditoría
+- [x] #26 Completar ruta de lectura, glosario, referencias cruzadas y auditoría
   editorial sin cambiar capítulos a `reviewed` ni `published`.
 
 ## Dependencias y bloqueadores

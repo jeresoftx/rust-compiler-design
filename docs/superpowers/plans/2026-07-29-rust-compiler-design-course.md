@@ -135,7 +135,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 ### Capítulo 08: máquina virtual
 
 - [x] #23 Especificar pila, frames, ejecución, errores y límites de la VM.
-- [ ] #24 Implementar y probar máquina virtual y programas integradores.
+- [x] #24 Implementar y probar máquina virtual y programas integradores.
 - [ ] #25 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ## Milestone 4: Integración y cierre editorial

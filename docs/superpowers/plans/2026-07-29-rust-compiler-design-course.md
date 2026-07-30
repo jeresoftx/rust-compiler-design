@@ -129,7 +129,7 @@ de que el contrato y el modelo de su predecesora estén disponibles.
 ### Capítulo 07: bytecode
 
 - [x] #20 Especificar instrucciones, constantes, saltos y formato de bytecode.
-- [ ] #21 Implementar y probar generación de bytecode desde IR.
+- [x] #21 Implementar y probar generación de bytecode desde IR.
 - [ ] #22 Escribir capítulo, diagrama, ejemplos, ejercicios y soluciones.
 
 ### Capítulo 08: máquina virtual

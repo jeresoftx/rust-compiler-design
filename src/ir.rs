@@ -5,7 +5,7 @@ use crate::{
     parser::BinaryOperator,
 };
 
-#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+#[derive(Clone, Copy, Debug, Hash, PartialEq, Eq)]
 pub struct ValueId(pub usize);
 
 #[derive(Clone, Debug, PartialEq, Eq)]
